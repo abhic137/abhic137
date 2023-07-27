@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I+am+Abhishek+Raj+%F0%9F%91%A8;I+am+currently+working+on+opensource+5G+implementations+%F0%9F%93%A1+;I+am+intrested+in+Cloud+%E2%98%81%EF%B8%8F;I+am+intrested+to+work+in+opensource+projects+and+I+am+ready+to+collab.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I+am+Abhishek+Raj+%F0%9F%91%A8;Currently+working+on+opensource+5G+implementations+%F0%9F%93%A1+;I+am+intrested+in+Cloud+%E2%98%81%EF%B8%8F;intrested+to+work+in+opensource+projects;I+am+ready+to+collab.)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
